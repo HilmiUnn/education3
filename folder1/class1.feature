@@ -3,6 +3,6 @@ day 1
 
   Body
 
-  Footer
+  Header
 
   Web elements updated
