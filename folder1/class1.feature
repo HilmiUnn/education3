@@ -1,5 +1,5 @@
 day 1
-  Hello World333333
+  Hello World
 
   Body
 
